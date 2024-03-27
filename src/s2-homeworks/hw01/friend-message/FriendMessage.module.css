@@ -4,6 +4,8 @@
 
 .friendImageAndText {
 
+    width: 525px;
+    height: 60px;
 }
 
 .friendImageAndText img {
@@ -11,7 +13,7 @@
 }
 
 .friendText {
-
+    background: rgba(0, 102, 204, 1);
 }
 
 .friendText:after {
@@ -19,6 +21,13 @@
 }
 
 .friendName {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    text-align: left;
+    width: 40px;
+    height: 22px;
+
 
 }
 
